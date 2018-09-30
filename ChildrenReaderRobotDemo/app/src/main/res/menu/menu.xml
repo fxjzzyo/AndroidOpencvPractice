@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/start_take"
+        android:title="相机"
+        app:showAsAction="always"
+        >
+    </item>
+    <item
+        android:id="@+id/take_one"
+        android:title="截图"
+        app:showAsAction="always"
+        >
+    </item>
+</menu>
